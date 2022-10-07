@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff2a106f-76ce-49bc-ab07-e9cba0f8ad0e": {
+      "ProjectGuid": "ff2a106f-76ce-49bc-ab07-e9cba0f8ad0e",
+      "DisplayName": "Console game",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
