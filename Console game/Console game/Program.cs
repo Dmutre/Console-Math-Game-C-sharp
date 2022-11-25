@@ -47,7 +47,7 @@ namespace Console_game
             string Intrudaction = "It is been while when this dried area was the one of the centre of human civilizacion. Now, it is place where the lost like you is searching " +
             "for leftovers of that civilization for rising bounty.Your goal- to capture this area with your friend and defend the bosses, that are controlling and destroying " +
             "your teritory, LETS GO!!!";
-            //Text_Output(Intrudaction);
+            Text_Output(Intrudaction);
 
 
             string inp_name = "Input your name: ";
